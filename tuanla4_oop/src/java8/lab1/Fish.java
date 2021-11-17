@@ -1,4 +1,4 @@
-package lab1;
+package java8.lab1;
 
 public class Fish implements Animal{
 

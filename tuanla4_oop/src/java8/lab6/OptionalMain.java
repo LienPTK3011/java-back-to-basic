@@ -1,4 +1,4 @@
-package lab6;
+package java8.lab6;
 
 import java.util.List;
 

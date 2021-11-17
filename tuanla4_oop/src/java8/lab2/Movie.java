@@ -1,4 +1,4 @@
-package lab2;
+package java8.lab2;
 
 @FunctionalInterface
 public interface Movie {
